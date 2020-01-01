@@ -1,0 +1,7 @@
+﻿
+--1.引入EntityFramework
+Install-Package  EntityFramework -Version 6.4.0
+--2.Swagger的api访问地址
+
+
+
